@@ -1,0 +1,6 @@
+---
+applications:
+ - name: avaliacaoCloud2
+   random-route: true
+   memory: 128M
+   buildpack: staticfile_buildpack
